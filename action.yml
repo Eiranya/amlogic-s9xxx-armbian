@@ -15,7 +15,7 @@ inputs:
   armbian_board:
     description: "Set Amlogic Board."
     required: false
-    default: "s905d_s905x3"
+    default: "s905l3a"
   armbian_kernel:
     description: "Set kernel version."
     required: false
